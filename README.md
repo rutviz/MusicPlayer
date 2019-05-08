@@ -1,2 +1,2 @@
-# NusicPlayer
+# MusicPlayer
 Advance Software Engineering Proect
